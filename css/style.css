@@ -35,18 +35,24 @@ ul {
 
 }
 
-div.write{
+article{
     margin: 50px;
 padding-top:50px;
 margin-left: 50%;
-padding-bottom: 25%;
+padding-bottom: 20%;
 text-align:center;
 
 }
-div.div1 {
+footer {
 border-radius: 10px;
     background-color: #ddd;
     width: 100%;
     height: 70px;
+    margin-top: 170px;
+
+}
+
+button:hover{
+    background-color:#ddd;
 
 }
