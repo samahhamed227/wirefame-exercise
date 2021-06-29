@@ -23,13 +23,19 @@ ul {
     text-decoration: none;
 
   }
+  section{
+
+
+    margin: 30px;
+
+  }
  
 
 article{
     margin: 50px;
 padding-top:50px;
 margin-left: 50%;
-padding-bottom: 20%;
+padding-bottom: 25%;
 text-align:center;
 
 }
